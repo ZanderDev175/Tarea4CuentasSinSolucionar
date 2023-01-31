@@ -7,6 +7,8 @@ public class Cuenta {
     private String cuenta;
     private double saldo;
     private double tipoInteres;
+    private String direccion;
+    private int DNI;
 
     public Cuenta()
     {
